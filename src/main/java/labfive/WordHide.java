@@ -21,8 +21,7 @@ public class WordHide {
       System.out.println("Unable to locate file");
     }
     // TODO Step One: Read in and display the chosen word
-    String word = scanner.nextLine();
-    System.out.println("Okay, I am going to hide the word \"" + word + "\".");
+
     // TODO Step Two: Use substring and charAt to extract parts of the word
 
     // TODO Step Three: Assemble the word by declaring ten new String variables
